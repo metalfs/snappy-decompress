@@ -1,0 +1,16 @@
+{
+  "name": "@metalfs/snappy-decompress",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metalfs/snappy-decompress.git"
+  },
+  "keywords": [],
+  "author": "Robert Schmid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metalfs/snappy-decompress/issues"
+  },
+  "homepage": "https://github.com/metalfs/snappy-decompress#readme"
+}
